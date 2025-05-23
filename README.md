@@ -6,7 +6,7 @@
 
 From early childhood research to national public health initiatives, I’ve spent over a decade on a mission: turn mountains of messy data into clear, actionable insights that help people thrive. My journey winds through mental health studies, policy-shaping analytics, and the art of building surveys that actually make sense (yes, even the branching logic parts!).
 
-I’m in my element wrangling multi-million-record healthcare datasets, designing REDCap and Qualtrics surveys that run like clockwork, and building dashboards in Power BI and R that make the “aha!” moments jump off the screen. My technical toolkit? Power BI, R, SQL, Excel, SPSS, SAS, mPlus, NVivo, REDCap, Qualtrics, and more—plus a growing love for Python (I’m working on leveling up!) and a curiosity for the world of Generative AI.
+I’m in my element wrangling multi-million-record healthcare datasets, designing REDCap and Qualtrics surveys that run like clockwork, and building dashboards in Power BI and R that make the “aha!” moments jump off the screen. My technical toolkit? Power BI, R, SQL, Excel, SPSS, SAS, mPlus, NVivo, REDCap, Qualtrics, and more - plus a growing love for Python (I’m working on leveling up!) and a curiosity for the world of Generative AI.
 
 Recently, I’ve been drawn to the crossroads of data, business, and finance—excited by the possibilities of using analytics to inform strategy, optimize processes, and drive meaningful results for organizations and communities.
 
