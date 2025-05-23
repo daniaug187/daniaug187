@@ -4,7 +4,13 @@
 
 🔍 **Data-Driven | Analytics-Focused | Impact-Oriented**
 
-With over a decade of experience in **data analytics, research, and evaluation**, I specialize in transforming complex datasets into actionable insights that drive decision-making and systems change. My background is rooted in public health, early childhood, and mental health research, where I’ve led advanced analytics initiatives for national, state, and community-level programs. 
+From early childhood research to national public health initiatives, I’ve spent over a decade on a mission: turn mountains of messy data into clear, actionable insights that help people thrive. My journey winds through mental health studies, policy-shaping analytics, and the art of building surveys that actually make sense (yes, even the branching logic parts!).
+
+I’m in my element wrangling multi-million-record healthcare datasets, designing REDCap and Qualtrics surveys that run like clockwork, and building dashboards in Power BI and R that make the “aha!” moments jump off the screen. My technical toolkit? Power BI, R, SQL, Excel, SPSS, SAS, mPlus, NVivo, REDCap, Qualtrics, and more—plus a growing love for Python (I’m working on leveling up!) and a curiosity for the world of Generative AI.
+
+Recently, I’ve been drawn to the crossroads of data, business, and finance—excited by the possibilities of using analytics to inform strategy, optimize processes, and drive meaningful results for organizations and communities.
+
+When I’m not deep in data, I bring ideas to life in a different way: as a crochet artist, turning yarn into art and relaxation into creativity.
 
 ---
 
@@ -24,13 +30,8 @@ With over a decade of experience in **data analytics, research, and evaluation**
 - **Analytics & Visualization:** Power BI, R, Excel, SQL, SPSS, SAS, mPlus, NVivo
 - **Survey Platforms:** REDCap, Qualtrics
 - **Collaboration & Experimentation:** Google Colab
+- **Learning:** Advancing my Python skills and actively exploring Generative AI
 
----
-
-### ⚡ What I Am Learning
-
- I am currently advancing my Python skills and actively exploring Generative AI. 
- 
 ---
 
 ### 🚀 Let’s Collaborate
