@@ -8,7 +8,7 @@ From early childhood research to national public health initiatives, I’ve spen
 
 I’m in my element wrangling multi-million-record healthcare datasets, designing REDCap and Qualtrics surveys that run like clockwork, and building dashboards in Power BI and R that make the “aha!” moments jump off the screen. My technical toolkit? Power BI, R, SQL, Excel, SPSS, SAS, mPlus, NVivo, REDCap, Qualtrics, and more - plus a growing love for Python (I’m working on leveling up!) and a curiosity for the world of Generative AI.
 
-Recently, I’ve been drawn to the crossroads of data, business, and finance—excited by the possibilities of using analytics to inform strategy, optimize processes, and drive meaningful results for organizations and communities.
+Recently, I’ve been drawn to the crossroads of data, business, and finance - excited by the possibilities of using analytics to inform strategy, optimize processes, and drive meaningful results for organizations and communities.
 
 When I’m not deep in data, I bring ideas to life in a different way: as a crochet artist, turning yarn into art and relaxation into creativity.
 
